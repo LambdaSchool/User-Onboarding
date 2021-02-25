@@ -1,0 +1,24 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+label {
+  margin: 10px;
+}
+
+.form {
+  margin-top: 100px;
+}
+
+.input {
+  margin: 30px;
+}
+
+input {
+  margin: 20px 0;
+}
